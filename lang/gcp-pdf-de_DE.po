@@ -1,0 +1,475 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Unprintable Blog\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-12-23 11:35+0100\n"
+"PO-Revision-Date: 2010-12-23 12:13+0100\n"
+"Last-Translator: Björn Ahrens <b.ahrens@greencomputingportal.de>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../cronCreatePDFs.php:31
+msgid "No caching enabled"
+msgstr "Cache nicht aktiv"
+
+#: ../cronCreatePDFs.php:52
+msgid "Start cache creating"
+msgstr "Cache-Erzeugung gestartet"
+
+#: ../cronCreatePDFs.php:57
+#, php-format
+msgid "Skiping pdf creation for post %s: No Title"
+msgstr "PDF-Erzeugung für Post %s &uuml;bersprungen: Kein Titel"
+
+#: ../cronCreatePDFs.php:61
+#, php-format
+msgid "Create cache pdf for post %s"
+msgstr "Erzeuge PDF f&uuml;r Post %s"
+
+#: ../cronCreatePDFs.php:68
+msgid "Caching finished"
+msgstr "Cache-Erzeugung beendet"
+
+#: ../wp-gcp-pdf.php:285
+#: ../wp-gcp-pdf.php:291
+msgid "You must login first"
+msgstr "Sie m&uuml;ssen angemeldet sein"
+
+#: ../wp-gcp-pdf.php:305
+#: ../wp-gcp-pdf.php:308
+msgid "This page as PDF"
+msgstr "Diese Seite als PDF speichern"
+
+#: ../wp-gcp-pdf.php:321
+msgid "Couldn't read cache file"
+msgstr "Cache-Datei konnte nicht gelesen werden"
+
+#: ../wp-gcp-pdf.php:421
+#: ../wp-gcp-pdf_admin.php:26
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: ../wp-gcp-pdf.php:422
+#: ../wp-gcp-pdf_admin.php:38
+msgid "Black/White Lists"
+msgstr "Black-/White-Listen"
+
+#: ../wp-gcp-pdf.php:423
+#: ../wp-gcp-pdf_admin.php:30
+msgid "Cache"
+msgstr "Cache"
+
+#: ../wp-gcp-pdf.php:424
+#: ../wp-gcp-pdf_admin.php:34
+msgid "Custom PDF Names"
+msgstr "Benutzerdefinierte PDF-Namen"
+
+#: ../wp-gcp-pdf.php:424
+msgid "PDF Names"
+msgstr "PDF-Namen"
+
+#: ../wp-gcp-pdf.php:426
+msgid "Statistics"
+msgstr "Statistik"
+
+#: ../wp-gcp-pdf.php:453
+msgid "Put on whitelist/blacklist for \"Print posts\""
+msgstr "Auf Black-/White-List für \"Druckbare Posts\" setzen"
+
+#: ../wp-gcp-pdf.php:459
+msgid "Put on whitelist/blacklist for \"Login needed\""
+msgstr "Auf Black-/White-List für \"Login ben&ouml;tigt\" setzen"
+
+#: ../wp-gcp-pdf.php:465
+msgid "Set a custom PDF name"
+msgstr "Benutzerdefinierter PDF-Name"
+
+#: ../wp-gcp-pdf.php:467
+msgid "(without .pdf at the end)"
+msgstr "(ohne \".pdf\" am Ende)"
+
+#: ../wp-gcp-pdf_admin.php:43
+msgid "Download Statistics"
+msgstr "Download-Statistik"
+
+#: ../wp-gcp-pdf_admin.php:61
+msgid "Unnecessary printing not only means unnecessary cost of paper and inks, but also avoidable environmental impact on producing and shipping these supplies. Reducing printing can make a small but a significant impact. Take action to help reduce paper waste - make your blog \"unprintable\"."
+msgstr "Unn&ouml;tiges Drucken verursacht nicht nur unn&ouml;tige Kosten f&uuml;r Papier und Tinte/Toner. Produktion und Transport dieser Verbrauchsmaterialien hat auch negative Auswirkungen auf die Umwelt. Jede nicht ausgedruckte Webseite hilft die Papierverschwendung zu reduzieren und damit die Umwelt zu entlasten. Helfen Sie mit Papierverschwendung zu vermeiden - machen Sie Ihren Blog \"undruckbar\"."
+
+#: ../wp-gcp-pdf_admin.php:93
+msgid "Options saved"
+msgstr "Einstellungen gespeichert"
+
+#: ../wp-gcp-pdf_admin.php:100
+#: ../wp-gcp-pdf_admin.php:641
+msgid "General Settings"
+msgstr "Allgemeine Einstellungen"
+
+#: ../wp-gcp-pdf_admin.php:103
+#: ../wp-gcp-pdf_admin.php:643
+msgid "Append PDF button to posts"
+msgstr "PDF-Button an Postst anf&uuml;gen"
+
+#: ../wp-gcp-pdf_admin.php:106
+#: ../wp-gcp-pdf_admin.php:644
+msgid "Show \"No-Print\" message when printing"
+msgstr "\"Nicht-Drucken\"-Meldung in Ausdrucken anzeigen"
+
+#: ../wp-gcp-pdf_admin.php:109
+msgid "\"No-Print\" template"
+msgstr "\"Nicht-Drucken\"-Template"
+
+#: ../wp-gcp-pdf_admin.php:129
+#: ../wp-gcp-pdf_admin.php:646
+msgid "PDF caching"
+msgstr "PDF caching"
+
+#: ../wp-gcp-pdf_admin.php:132
+#: ../wp-gcp-pdf_admin.php:647
+msgid "Download stats"
+msgstr "Download-Statistik"
+
+#: ../wp-gcp-pdf_admin.php:135
+msgid "Enable Debuging"
+msgstr "Debugging aktivieren"
+
+#: ../wp-gcp-pdf_admin.php:138
+#: ../wp-gcp-pdf_admin.php:649
+msgid "Show metabox when editing posts"
+msgstr "Metabox beim Bearbeiten von Posts anzeigen"
+
+#: ../wp-gcp-pdf_admin.php:141
+#: ../wp-gcp-pdf_admin.php:650
+msgid "User for generating per Cron"
+msgstr "User f&uuml;r Cache-Erzeugung über Cron"
+
+#: ../wp-gcp-pdf_admin.php:143
+msgid "None"
+msgstr "Keins"
+
+#: ../wp-gcp-pdf_admin.php:144
+msgid "Auto"
+msgstr "Auto"
+
+#: ../wp-gcp-pdf_admin.php:164
+#: ../wp-gcp-pdf_admin.php:652
+msgid "PDF Settings"
+msgstr "PDF-Einstellungen"
+
+#: ../wp-gcp-pdf_admin.php:167
+#: ../wp-gcp-pdf_admin.php:654
+msgid "Theme"
+msgstr "Theme"
+
+#: ../wp-gcp-pdf_admin.php:187
+#: ../wp-gcp-pdf_admin.php:655
+msgid "Codepage"
+msgstr "Codepage"
+
+#: ../wp-gcp-pdf_admin.php:203
+msgid "GeSHi Parsing"
+msgstr "GeSHi-Parser"
+
+#: ../wp-gcp-pdf_admin.php:206
+#: ../wp-gcp-pdf_admin.php:657
+msgid "GeSHi line numbers"
+msgstr "GeSHi-Zeilennummern"
+
+#: ../wp-gcp-pdf_admin.php:213
+#: ../wp-gcp-pdf_admin.php:659
+msgid "Access Settings"
+msgstr "Zugriffs-Einstellungen"
+
+#: ../wp-gcp-pdf_admin.php:216
+#: ../wp-gcp-pdf_admin.php:661
+msgid "Allow PDF download of all posts"
+msgstr "PDF-Download f&uuml;r alle Posts erlauben"
+
+#: ../wp-gcp-pdf_admin.php:219
+#: ../wp-gcp-pdf_admin.php:662
+msgid "If not use list as"
+msgstr "Wenn nicht, Liste benutzen als"
+
+#: ../wp-gcp-pdf_admin.php:221
+#: ../wp-gcp-pdf_admin.php:231
+msgid "Whitelist"
+msgstr "White-Liste"
+
+#: ../wp-gcp-pdf_admin.php:222
+#: ../wp-gcp-pdf_admin.php:232
+msgid "Blacklist"
+msgstr "Black-Liste"
+
+#: ../wp-gcp-pdf_admin.php:226
+#: ../wp-gcp-pdf_admin.php:504
+#: ../wp-gcp-pdf_admin.php:663
+msgid "Login needed"
+msgstr "Login ben&ouml;tigt"
+
+#: ../wp-gcp-pdf_admin.php:229
+#: ../wp-gcp-pdf_admin.php:664
+msgid "If checked use list as"
+msgstr "Wenn aktiviert, Liste benutzen als"
+
+#: ../wp-gcp-pdf_admin.php:238
+msgid "Save changes"
+msgstr "&Auml;nderungen speichern"
+
+#: ../wp-gcp-pdf_admin.php:238
+msgid "Reset"
+msgstr "Zur&uuml;cksetzen"
+
+#: ../wp-gcp-pdf_admin.php:247
+msgid "Draft"
+msgstr "Entwurf"
+
+#: ../wp-gcp-pdf_admin.php:255
+msgid "Planned"
+msgstr "Geplant"
+
+#: ../wp-gcp-pdf_admin.php:263
+msgid "Private"
+msgstr "Privat"
+
+#: ../wp-gcp-pdf_admin.php:271
+msgid "Published"
+msgstr "Ver&ouml;ffentlicht"
+
+#: ../wp-gcp-pdf_admin.php:283
+msgid "Download posts"
+msgstr "Download-Posts"
+
+#: ../wp-gcp-pdf_admin.php:292
+#: ../wp-gcp-pdf_admin.php:513
+#, php-format
+msgid "Post with id \"%s\" deleted from list."
+msgstr "Post mit ID \"%s\" von der Liste entfernt."
+
+#: ../wp-gcp-pdf_admin.php:297
+#: ../wp-gcp-pdf_admin.php:518
+msgid "All posts deleted from list."
+msgstr "Alle Postst von der Liste entfernt."
+
+#: ../wp-gcp-pdf_admin.php:313
+#: ../wp-gcp-pdf_admin.php:534
+msgid "Post has been added."
+msgstr "Post wurde hinzugefügt."
+
+#: ../wp-gcp-pdf_admin.php:316
+#: ../wp-gcp-pdf_admin.php:399
+#: ../wp-gcp-pdf_admin.php:537
+msgid "Post not found."
+msgstr "Post konnte nicht gefunden werden."
+
+#: ../wp-gcp-pdf_admin.php:322
+#: ../wp-gcp-pdf_admin.php:405
+#: ../wp-gcp-pdf_admin.php:543
+msgid "Post"
+msgstr "Post"
+
+#: ../wp-gcp-pdf_admin.php:326
+#: ../wp-gcp-pdf_admin.php:411
+#: ../wp-gcp-pdf_admin.php:546
+msgid "Add Entry"
+msgstr "Eintrag hinzuf&uuml;gen"
+
+#: ../wp-gcp-pdf_admin.php:330
+#: ../wp-gcp-pdf_admin.php:415
+#: ../wp-gcp-pdf_admin.php:551
+msgid "New Entry"
+msgstr "Neuer Eintrag"
+
+#: ../wp-gcp-pdf_admin.php:330
+#: ../wp-gcp-pdf_admin.php:415
+#: ../wp-gcp-pdf_admin.php:551
+msgid "Clear All Entries"
+msgstr "Alle Einträge l&ouml;schen"
+
+#: ../wp-gcp-pdf_admin.php:335
+#: ../wp-gcp-pdf_admin.php:420
+#: ../wp-gcp-pdf_admin.php:474
+#: ../wp-gcp-pdf_admin.php:556
+msgid "Post type"
+msgstr "Post-Typ"
+
+#: ../wp-gcp-pdf_admin.php:336
+#: ../wp-gcp-pdf_admin.php:421
+#: ../wp-gcp-pdf_admin.php:475
+#: ../wp-gcp-pdf_admin.php:557
+msgid "Title"
+msgstr "Titel"
+
+#: ../wp-gcp-pdf_admin.php:337
+#: ../wp-gcp-pdf_admin.php:423
+#: ../wp-gcp-pdf_admin.php:476
+#: ../wp-gcp-pdf_admin.php:558
+#: ../wp-gcp-pdf_admin.php:616
+msgid "Actions"
+msgstr "Aktionen"
+
+#: ../wp-gcp-pdf_admin.php:355
+#: ../wp-gcp-pdf_admin.php:442
+#: ../wp-gcp-pdf_admin.php:576
+#: ../wp-gcp-pdf_admin.php:628
+msgid "Delete"
+msgstr "L&ouml;schen"
+
+#: ../wp-gcp-pdf_admin.php:372
+#, php-format
+msgid "Custom PDF name for post with id \"%s\" deleted."
+msgstr "Benutzerdefinierter PDF-Name für Post it ID \"%s\" wurde gel&ouml;scht."
+
+#: ../wp-gcp-pdf_admin.php:377
+msgid "All custom PDF names deleted."
+msgstr "Alle benutzerdefinierten PDF-Namen gel&ouml;scht."
+
+#: ../wp-gcp-pdf_admin.php:396
+msgid "Custom PDF name has been added."
+msgstr "Benutzerdefinierter PDF-Name wurde hinzugef&uuml;gt."
+
+#: ../wp-gcp-pdf_admin.php:408
+msgid "Custom PDF name"
+msgstr "Benutzerdefinierter PDF-Name"
+
+#: ../wp-gcp-pdf_admin.php:422
+msgid "PDF name"
+msgstr "PDF-Name"
+
+#: ../wp-gcp-pdf_admin.php:459
+#, php-format
+msgid "Stats reseted for post with id \"%s\"."
+msgstr "Statistik für Post mit ID \"%s\" zur&uuml;ckgesetzt."
+
+#: ../wp-gcp-pdf_admin.php:464
+msgid "All stats reseted."
+msgstr "Alle Statistiken zur&uuml;ckgesetzt."
+
+#: ../wp-gcp-pdf_admin.php:468
+msgid "Clear All"
+msgstr "Alle l&ouml;schen"
+
+#: ../wp-gcp-pdf_admin.php:473
+msgid "Downloads"
+msgstr "Downloads"
+
+#: ../wp-gcp-pdf_admin.php:494
+msgid "Clear"
+msgstr "L&ouml;schen"
+
+#: ../wp-gcp-pdf_admin.php:594
+msgid "Cache file deleted"
+msgstr "Cache-Datei gel&ouml;scht"
+
+#: ../wp-gcp-pdf_admin.php:605
+msgid "Cache is cleared"
+msgstr "Cache wurde geleert."
+
+#: ../wp-gcp-pdf_admin.php:609
+msgid "Clear Cache"
+msgstr "Cache leeren"
+
+#: ../wp-gcp-pdf_admin.php:614
+msgid "File date"
+msgstr "Datei-Datum"
+
+#: ../wp-gcp-pdf_admin.php:615
+msgid "File name"
+msgstr "Dateiname"
+
+#: ../wp-gcp-pdf_admin.php:643
+msgid "Append a pdf download link to each post"
+msgstr "Einen Donload-Link f&uuml;r PDF an jeden Post anf&uuml;gen."
+
+#: ../wp-gcp-pdf_admin.php:644
+msgid "If checked, when printing using the browsers print function a message gets printed informing the user of your Unprintable Blog and to use the pdf-download instead. When not checkd only a blank page gets printed"
+msgstr "Ist diese Option aktiviert, dann wird auf Ausdrucken (&uuml;ber die Druckfunktion des Browsers) einer Seite eine Meldung angezeigt, dass dieser Blog nicht druckbar ist und stattdessen der PDF-Download benutzt werden soll. Ist die Option nicht aktiv, dann wird nur eine leere Seite gedruckt."
+
+#: ../wp-gcp-pdf_admin.php:645
+msgid "\"No-Print\" template:"
+msgstr "\"Nicht-Drucken\" Template"
+
+#: ../wp-gcp-pdf_admin.php:645
+msgid "Template to be used for the message shown when printing a page via the browsers print function."
+msgstr "Template f&uuml;r die Meldung, die beim Ausdrucken &uuml;ber die Druck-Funktion des Brwosers ausgegeben werden soll."
+
+#: ../wp-gcp-pdf_admin.php:646
+msgid "Caching of generated pdf files. Caching is highly recommended to improve performance."
+msgstr "Caching von erzeugten PDF-Dateien. Caching sollte f&uuml; eine bessere Performance des PDF-Downloads aktiviert sein."
+
+#: ../wp-gcp-pdf_admin.php:647
+msgid "Track number of downloads for each PDF. The statsitics page is only displayed when this option is activated."
+msgstr "Statistik &uuml;ber die Downloads von PDF-Dateien anlegen. Nur wenn diese Option aktiviert ist, wird die Statistik-Seite angezeigt."
+
+#: ../wp-gcp-pdf_admin.php:648
+msgid "Enabled Debugging"
+msgstr "Debugging aktivieren"
+
+#: ../wp-gcp-pdf_admin.php:648
+msgid "If enabled, the html used for generating the pdf will be saved in the folder \"debug\" inside the plugin dir for troubleshooting."
+msgstr "Bei aktiviertem Debugging werden die f&uuml;r die PDF-Erzeugung generierten HTML-Dateien im Ordner \"debug\" im Plugin-Ordner gespeichert."
+
+#: ../wp-gcp-pdf_admin.php:649
+msgid "Show a metabox for black/white listing and custom pdf file name when editing a post."
+msgstr "Eine Metabox f&uuml;r Black-/White-Listen und benutzerdefinierten Dateinamen im Bearbeiten-Bildschirm f&uuml;r Posts anzeigen."
+
+#: ../wp-gcp-pdf_admin.php:650
+msgid "Select a user name to pre-generate pdfs of your blog posts per cron when that user logs on. If none is selected pdfs will be generated on download. Only use cron when caching is enabled."
+msgstr "Hier kann ein Benutzer ausgew&auml;hlt werden, &uuml;ber den PDF-Dateien per Cron-Job erzeugt werden. Wenn keiner ausgew&auml;hlt wird, dann werden die PDFs beim ersten Download erzeugt. Die Cron-Option sollte nur verwendet werden, wenn der Cache aktiviert ist."
+
+#: ../wp-gcp-pdf_admin.php:654
+msgid "Select theme to be used for generating pdf files. Themes are located in the folder \"themes\" inside the plugin dir."
+msgstr "Das Theme, das f&uuml;r die Erzeugung der PDF-Dateien verwendet werden soll. Themes sind im Ordner \"themes\" im Plugin-Verzeichnis gespeichert."
+
+#: ../wp-gcp-pdf_admin.php:655
+msgid "Codepage to be used for pdf."
+msgstr "Codepage, die bei der Erzeugung der PDFs verwendet werden soll."
+
+#: ../wp-gcp-pdf_admin.php:656
+msgid "GeSHi parsing"
+msgstr "GeSHi-Parser"
+
+#: ../wp-gcp-pdf_admin.php:656
+msgid "Enable syntax highlighting in printed pdfs. Syntax highlighting will be applied to code blocks wrapped with &lt;pre lang=\"LANGUAGE\"&gt;...&lt;/pre&gt;. For more details visit <a href=\"http://qbnz.com/highlighter/\">GeSHi website</a>"
+msgstr "Aktiviert Syntax-Highlighting in den erzeugten PDF-Dateien. Das Syntax-Highlighting wird auf <i>pre</i>-Tags mit dem Attribut <i>lang</i> angewendet, z.B. &lt;pre lang=\"LANGUAGE\"&gt;...&lt;/pre&gt;. Weitere Details auf der <a href=\"http://qbnz.com/highlighter/\">GeSHi-Webseite</a>."
+
+#: ../wp-gcp-pdf_admin.php:657
+msgid "Print line numbers in code blocks when syntax highlighting is enabled."
+msgstr "Zeilennummern in Syntax-Bl&ouml;cken einf&uuml;gen."
+
+#: ../wp-gcp-pdf_admin.php:661
+msgid "If checked all blog posts can be downloaded as PDF."
+msgstr "Ist diese Option aktiviert, k&ouml;nnen alle Posts des Blogs als PDF heruntergeladen werden."
+
+#: ../wp-gcp-pdf_admin.php:662
+msgid "If <i>Allow PDF download of all pages</i> is not checked, select if the \"Download posts\" list should be used as blacklist (download of all posts except for those on the list) or whitelist (download only posts on the list)."
+msgstr "Wenn der PDF-Download nicht f&uuml;r alle Posts verf&uuml;gbar sein soll, kann hier ausgew&auml;hlt werden, ob die Liste \"Drucbare Posts\" als Black-Liste (PDF-Download f&uuml; alle Posts au&szlig;er denen auf der Liste) oder als White-Liste (PDF-Download nur f&uuml;r die Posts auf der Liste) verwendet werden soll."
+
+#: ../wp-gcp-pdf_admin.php:663
+msgid "If checked some or all posts can only be downloaded by logged in users."
+msgstr "Ist diese Option aktiviert, k&ouml;nnen alle bzw. einige Posts nur von angemeldeten Usern als PDF heruntergeladen werden."
+
+#: ../wp-gcp-pdf_admin.php:664
+msgid "Select if \"Login needed\" list should be used as whitelist (all pdf downloads require login, except for posts on the list) or as blacklist (only pdf downloads for posts on list require login)."
+msgstr "W&auml;hlen Sie aus, ob die \"Login ben&ouml;tigt\"-Liste als White-Liste (alle PDF-Downloads nur f&uuml; angemeldete Benutzer, au&szlig;er denen auf der Liste) oder als Black-Liste (nur PDF-Downloads f&uuml;r posts auf der Liste ben&ouml;tigen Anmeldung) benutzt werden soll."
+
+#, fuzzy
+#~ msgid "Allow PDF download of all pages"
+#~ msgstr "Alle Posts sind druckbar"
+
+#~ msgid "Print posts"
+#~ msgstr "Druckbare Posts"
+
+#~ msgid "GeSHi Line numbers"
+#~ msgstr "GeSHi-Zeilennummern"
+
+#~ msgid "Custom File Names"
+#~ msgstr "Benutzerdefinierte Dateinamen"
+
+#~ msgid "Custom Filenames"
+#~ msgstr "Benutzerdefinierte Dateinamen"
