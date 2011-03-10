@@ -186,7 +186,7 @@
 						$pdf_output .= '<p class="postmetadata alt"><span>
 										<b>This PDF document can\'t be printed.</b>
 										<img style="float:left; margin-right:1em;" src="'.WP_GCP_PDF_PLUGIN_URL.'/img/unprintable_64.png"/><small>Unnecessary printing not only means unnecessary cost of paper and inks, but also avoidable environmental impact on producing and shipping these supplies. Reducing printing can make a small but a significant impact.</small><br/>
-										<small>Powered by <i>Unprintable Web</i> for Wordpress - <a href="http://www.greencomputingportal.de">www.greencomputingportal.de</a></small><br/>
+										<small>Powered by <i>Unprintable Blog</i> for Wordpress - <a href="http://www.greencomputingportal.de">www.greencomputingportal.de</a></small><br/>
 										</span>
 					</p>';
 				}

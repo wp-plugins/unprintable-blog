@@ -190,7 +190,7 @@
 						$pdf_output .= '<p class="postmetadata alt"><span>
 										<b>Dieses PDF-Dokument kann nicht gedruckt werden.</b>
 										<img style="float:left; margin-right:1em;" src="'.WP_GCP_PDF_PLUGIN_URL.'/img/unprintable_64.png"/><small>Unnötiges Drucken verursacht nicht nur unnötige Kosten für Papier und Tinte/Toner. Produktion und Transport dieser Verbrauchsmaterialien hat auch negative Auswirkungen auf die Umwelt. Jede nicht ausgedruckte Webseite hilft die Papierverschwendung zu reduzieren und damit die Umwelt zu entlasten.</small><br/>
-										<small>Powered by <i>Unprintable Web</i> für Wordpress - <a href="http://www.greencomputingportal.de">www.greencomputingportal.de</a></small><br/>
+										<small>Powered by <i>Unprintable Blog</i> für Wordpress - <a href="http://www.greencomputingportal.de">www.greencomputingportal.de</a></small><br/>
 										</span>
 					</p>';
 				}
